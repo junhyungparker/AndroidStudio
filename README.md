@@ -17,4 +17,6 @@ Android Studio Excercise
 -While-Loop
 -For-Loop
 -When Expression
+
+### 02/12/2021
 -Functions
