@@ -14,3 +14,7 @@ Android Studio Excercise
 -If Condition
 -Null Values
 -Lists
+-While-Loop
+-For-Loop
+-When Expression
+-Functions
