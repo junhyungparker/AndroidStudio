@@ -27,3 +27,4 @@ Android Studio Excercise
 -Abstract Classes
 -Anonymous Classes
 -Try & Catch
+-Lambda Functions
