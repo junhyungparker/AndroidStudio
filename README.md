@@ -31,3 +31,4 @@ Android Studio Excercise
 
 ###02/14/2021
 -Android Studio First Project
+- First App Layout
