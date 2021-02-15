@@ -35,4 +35,6 @@ Android Studio Excercise
 
 ### 02/15/2021
 -Constraint Layout
--Dealing with Recycler View
+-Recycler View
+-EditText
+-Button
