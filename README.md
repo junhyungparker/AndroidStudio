@@ -29,7 +29,7 @@ Android Studio Excercise
 -Try & Catch
 -Lambda Functions
 
-###02/14/2021
+### 02/14/2021
 -Android Studio Roundtrip
 -Android Studio First Project
 -First App Layout
