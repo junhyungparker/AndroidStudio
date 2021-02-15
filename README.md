@@ -35,4 +35,4 @@ Android Studio Excercise
 
 ### 02/15/2021
 -Constraint Layout
--Recycler View
+-Dealing with Recycler View
