@@ -31,5 +31,8 @@ Android Studio Excercise
 
 ### 02/14/2021
 -Android Studio Roundtrip
--Android Studio First Project
 -First App Layout
+
+### 02/15/2021
+-Constraint Layout
+-Recycler View
